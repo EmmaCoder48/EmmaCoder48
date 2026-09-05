@@ -4,10 +4,10 @@
 </p>
 
 <!-- TÍTULO Y PRESENTACIÓN -->
-<h1 align="center">¡Hola a todos! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola a todos! 👋 Soy Emmanuel Gomez</h1>
 
 <p align="center">
-  <b>[Tu Rol o Especialidad, ej: Desarrollador Web Full Stack / Entusiasta de la IA]</b>
+  <b>Desarrollo web</b>
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 ### 🚀 Sobre mí
 
-* 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto o empresa]**
-* 🌱 Aprendiendo intensamente sobre **[Tecnología que estás estudiando]**
-* 💬 Pregúntame sobre **[Tus tecnologías dominantes]**
-* ⚡ Dato curioso: **[Algo divertido sobre ti o tus pasatiempos]**
+* 🔭 Actualmente estoy trabajando en **Universidad Galileo**
+* 🌱 Aprendiendo intensamente sobre **C**
+* 💬 Pregúntame sobre **Javascript**
+* ⚡ Dato curioso: **Le voy al barca**
 
 ---
 
