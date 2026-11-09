@@ -25,5 +25,5 @@ const emmanuel = {
 ### Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,mysql,nodejs,python,sql,git&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,mysql,nodejs,python,git&theme=dark" alt="Stack" />
 </p>
