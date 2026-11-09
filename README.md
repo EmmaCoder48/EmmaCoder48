@@ -25,12 +25,5 @@ const emmanuel = {
 ### Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,sql,git&theme=dark" alt="Stack" />
-</p>
-
-### Actividad
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmaCoder48&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=false" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaCoder48&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="150" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,mysql,nodejs,python,sql,git&theme=dark" alt="Stack" />
 </p>
