@@ -1,48 +1,36 @@
-<!-- BANNER PRINCIPAL (Sustituye la URL con la foto/banner que subiste a tu repositorio) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EmmaCoder48/EmmaCoder48/main/b574ae2106f74934a8486bbeb49d4dfc.jpg" alt="Header" width="100%">
-</p>
-
-<!-- TÍTULO Y PRESENTACIÓN -->
-<h1 align="center">¡Hola a todos! 👋 Soy Emmanuel Gomez</h1>
+<h1 align="center">Emmanuel Gómez</h1>
 
 <p align="center">
-  <b>Desarrollo web</b>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=460&lines=Desarrollador+Web;JavaScript+%C2%B7+React+%C2%B7+Node.js;Estudiante+en+Universidad+Galileo" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://tuwebsite.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/></a>
+  <a href="https://TU-PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portafolio-1a1b27?style=flat-square&logo=googlechrome&logoColor=7AA2F7" alt="Portafolio"/></a>
+  <a href="mailto:TU-CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=flat-square&logo=gmail&logoColor=7AA2F7" alt="Email"/></a>
 </p>
 
----
+<br>
 
-### 🚀 Sobre mí
+```js
+const emmanuel = {
+  ubicacion: "Guatemala 🇬🇹",
+  estudio:   "Universidad Galileo",
+  aprendiendo: ["C"],
+  preguntame:  "JavaScript",
+  dato:      "Le voy al Barça 🔵🔴",
+};
+```
 
-* 🔭 Actualmente estoy trabajando en **Universidad Galileo**
-* 🌱 Aprendiendo intensamente sobre **C**
-* 💬 Pregúntame sobre **Javascript**
-* ⚡ Dato curioso: **Le voy al barca**
-
----
-
-### 🛠️ Tecnologías y Herramientas
+### Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,c,git&theme=dark" alt="Stack" />
 </p>
 
----
-
-### 📊 Mis Estadísticas de GitHub
+### Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EmmaCoder48&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=false" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaCoder48&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="150" alt="Lenguajes" />
 </p>
